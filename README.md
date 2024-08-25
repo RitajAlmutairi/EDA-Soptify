@@ -4,14 +4,14 @@ This repository contains a mini project focused on performing Exploratory Data A
 
 ## project structure
 
-spotify-eda/
-│
-├── data/                    # Contains the dataset file
-│   └── Most Streamed Spotify Songs 2024   #Dataset file 
-│
-├── code/                     # Contains the Python code (ipynb)
-│   └── Spotify_Streams_EDA.ipynb     # Functions for performing EDA
-└── README.md
+spotify-eda/  
+│  
+├── Dataset/                    # Contains the dataset file  
+│   └── Most_Streamed_Spotify_Songs_2024   #Dataset file   
+│  
+├── code/                     # Contains the Python code  
+│   └── Spotify_Streams_EDA.ipynb     # Functions for performing EDA    
+└── README.md    
 
 
 ## Dataset
