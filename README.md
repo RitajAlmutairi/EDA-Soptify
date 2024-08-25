@@ -25,5 +25,5 @@ pip install pandas numpy matplotlib seaborn missingno
 
 ## Contributors
 
-**[Ritaj Almutairi](https://github.com/RitajAlmutairi)**
+**[Ritaj Almutairi](https://github.com/RitajAlmutairi)**    
 **[Rawan Alotaibi](https://github.com/AlRawan7)**
